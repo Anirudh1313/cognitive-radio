@@ -1,0 +1,1 @@
+This is README file for Alpha group project for CMPE 243 subject.
